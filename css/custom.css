@@ -1,0 +1,10 @@
+/* your styles go here */
+
+.logo {
+        width: 400px;
+    }
+@media (max-width: 575.98px) { 
+    .logo {
+        width: 100px;
+    }
+ }
