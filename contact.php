@@ -14,7 +14,8 @@ include('header.php')
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item mx-2"><a class="nav-link text-uppercase" href="index.php">Home </a></li>
-        <li class="nav-item mx-2"><a class="nav-link text-uppercase" href="about.php">About</a></li>
+        <li class="nav-item mx-2"><a class="nav-link text-uppercase" href="about.php">About Us</a></li>
+        <li class="nav-item mx-2"><a class="nav-link text-uppercase" href="team.php">Our Team</a></li>
         <li class="nav-item mx-2 active"><a class="nav-link text-uppercase" href="contact.php">Contact</a></li>
         <!-- <li class="nav-item ml-2 dropdown"><a class="nav-link text-uppercase dropdown-toggle pr-0" id="navbarDropdownMenuLink" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                 <div class="dropdown-menu mt-lg-4" aria-labelledby="navbarDropdownMenuLink"><a class="dropdown-item font-weight-bold text-small" href="index.html">Home</a><a class="dropdown-item font-weight-bold text-small" href="about.html">About</a><a class="dropdown-item font-weight-bold text-small" href="contact.html">Contact                </a></div>
@@ -78,7 +79,7 @@ include('header.php')
       </div>
       <div class="col-lg-4">
         <h3>Have a quesion?</h3>
-        <p class="text-muted mb-5">MURIMI, THIONGO, KUNGU & COMPANY ADVOCATES.</p>
+        <p class="text-muted mb-3">MURIMI, THIONGO, KUNGU & COMPANY ADVOCATES.</p>
         <ul class="list-unstyled">
           <li class="d-flex mb-3">
             <!-- <div class="icon bg-primary"><i class="fas fa-map-marker-alt text-white fa-fw"></i></div> -->

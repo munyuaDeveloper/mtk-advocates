@@ -1,5 +1,5 @@
 <footer class="bg-dark">
-  <div class="bg-primary py-5 text-white">
+  <!-- <div class="bg-primary py-5 text-white">
     <div class="container">
       <div class="row">
         <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
@@ -28,27 +28,28 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <div class="bg-dark py-5 text-white">
     <div class="container">
       <div class="row py-5">
-        <div class="col-lg-4 col-md-6"><img class="mb-4" src="img/logo-white.svg" alt="" width="200">
+        <div class="col-lg-4 col-md-6"><img class="mb-4" src="img/logo2.png" alt="" width="200">
           <p class="text-muted text-small mb-4">Business is our signature.</p>
           <p class="mb-1"><i class="fas fa-envelope mr-3 text-primary fa-fw"></i><span class="text-small text-muted">info@mtkadvocates.com</span></p>
           <p class="mb-1"><i class="fas fa-mobile mr-3 text-primary fa-fw"></i><span class="text-small text-muted">+254 725 109 587</span></p>
           <p class="mb-1"><i class="fas fa-map-marker-alt mr-3 text-primary fa-fw"></i><span class="text-small text-muted">Windsor House, 4th Floor , Room No. 403 University Way (Opposite
               Central Police Station)</span></p>
         </div>
-        <div class="col-lg-2 col-md-6">
+        <div class="col-lg-4 col-md-6">
           <h5 class="mt-3 mb-4 font-weight-normal">Quick links</h5>
           <ul class="list-unstyled">
             <li class="mb-2"><a class="footer-link" href="index.php">Home</a></li>
             <li class="mb-2"><a class="footer-link" href="about.php">About</a></li>
             <li class="mb-2"><a class="footer-link" href="index.php#services">Services</a></li>
+            <li class="mb-2"><a class="footer-link" href="team.php">Our Team</a></li>
             <li class="mb-2"><a class="footer-link" href="contact.php">Contacts</a></li>
           </ul>
         </div>
-        <div class="col-lg-2 col-md-6">
+        <div class="col-lg-4 col-md-6">
           <h5 class="mt-3 mb-4 font-weight-normal">Our services</h5>
           <ul class="list-unstyled">
             <li class="mb-2"><a class="footer-link" href="#">Property Law and Conveyancing</a></li>
@@ -57,25 +58,6 @@
             <li class="mb-2"><a class="footer-link" href="#">Our Case Studies</a></li>
             <li class="mb-2"><a class="footer-link" href="#">Free Consultation</a></li>
             <li class="mb-2"><a class="footer-link" href="#">Meet Our Experts</a></li>
-          </ul>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <h5 class="mt-3 mb-4 font-weight-normal">Latest news</h5>
-          <ul class="list-unstyled mb-0">
-            <li class="d-flex mb-4">
-              <div class="pr-2"><img src="img/blog-thumb-1.jpg" alt="" width="60"></div>
-              <div class="ml-3">
-                <p class="small text-muted mb-0">May 01, 2019 </p>
-                <h6 class="text-light font-weight-normal mb-0">Successful Growth In Business 2018</h6><a class="reset-anchor text-primary text-small" href="#">Read more<i class="fas fa-angle-right ml-2"></i></a>
-              </div>
-            </li>
-            <li class="d-flex">
-              <div class="pr-2"><img src="img/blog-thumb-2.jpg" alt="" width="60"></div>
-              <div class="ml-3">
-                <p class="small text-muted mb-0">May 01, 2019 </p>
-                <h6 class="text-light font-weight-normal mb-0">Successful Growth In Business 2018</h6><a class="reset-anchor text-primary text-small" href="#">Read more<i class="fas fa-angle-right ml-2"></i></a>
-              </div>
-            </li>
           </ul>
         </div>
       </div>

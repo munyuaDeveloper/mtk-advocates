@@ -14,7 +14,8 @@ include('header.php')
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item mx-2"><a class="nav-link text-uppercase" href="index.php">Home </a></li>
-        <li class="nav-item mx-2 active"><a class="nav-link text-uppercase" href="about.php">About</a></li>
+        <li class="nav-item mx-2 active"><a class="nav-link text-uppercase" href="about.php">About Us</a></li>
+        <li class="nav-item mx-2"><a class="nav-link text-uppercase" href="team.php">Our Team</a></li>
         <li class="nav-item mx-2"><a class="nav-link text-uppercase" href="contact.php">Contact</a></li>
       </ul>
     </div>
@@ -22,14 +23,14 @@ include('header.php')
 </nav>
 </header>
 <!-- Hero Slider -->
-<section class="hero bg-cover bg-position py-4" style="background: url(img/hero-banner-1.jpg)">
+<section class="hero bg-cover bg-position py-4" style="background: url(img/hammer-book.jpg); background-size: cover">
   <div class="container py-5 index-forward text-white">
     <h1>About Us</h1>
     <!-- Breadcrumb-->
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb bg-none mb-0 p-0">
         <li class="breadcrumb-item pl-0"><a href="index.php"> <i class="fas fa-home mr-2"></i>Home</a></li>
-        <li class="breadcrumb-item active" aria-current="page">About us</li>
+        <li class="breadcrumb-item active" aria-current="page">About Us</li>
       </ol>
     </nav>
   </div>
@@ -38,7 +39,7 @@ include('header.php')
   <div class="container py-5">
     <div class="row">
       <div class="col-lg-5 mb-4 mb-lg-0">
-        <div class="pt-1 bg-primary"><img class="img-fluid" src="img/about-img.jpg" alt=""></div>
+        <div class="pt-1 bg-primary"><img class="img-fluid w-100 h-100" src="img/big_logo.png" alt=""></div>
       </div>
       <div class="col-lg-6">
         <p class="h6 mb-1 text-uppercase text-primary mb-3">Our main services</p>
@@ -136,85 +137,6 @@ include('header.php')
             </ul>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
-</section>
-<section class="py-5">
-  <div class="container py-5">
-    <h2>Frequently asked questions</h2>
-    <p class="text-muted mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
-    <div class="row">
-      <div class="col-lg-6 mb-5 mb-lg-0">
-        <div class="accordion" id="accordionExample">
-          <div class="card rounded-0 border-0 mb-1">
-            <div class="card-header p-0 border-0 bg-white rounded-0" id="headingOne">
-              <h6 class="mb-0"><a class="reset-anchor w-100 px-4 py-3 d-block" data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  What is the procedure to join with your company?
-                </a></h6>
-            </div>
-            <div class="collapse show" id="collapseOne" aria-labelledby="headingOne" data-parent="#accordionExample">
-              <div class="card-body">
-                <p class="text-small text-muted">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.</p>
-              </div>
-            </div>
-          </div>
-          <div class="card rounded-0 border-0 mb-1">
-            <div class="card-header p-0 border-0 bg-white rounded-0" id="headingTwo">
-              <h6 class="mb-0"><a class="reset-anchor w-100 px-4 py-3 d-block collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  Do you give any offer for premium customer?
-                </a></h6>
-            </div>
-            <div class="collapse" id="collapseTwo" aria-labelledby="headingTwo" data-parent="#accordionExample">
-              <div class="card-body">
-                <p class="text-small text-muted">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.</p>
-              </div>
-            </div>
-          </div>
-          <div class="card rounded-0 border-0">
-            <div class="card-header p-0 border-0 bg-white rounded-0" id="headingThree">
-              <h6 class="mb-0"><a class="reset-anchor w-100 px-4 py-3 d-block collapsed border-bottom" data-toggle="collapse" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  What makes you special from others?
-                </a></h6>
-            </div>
-            <div class="collapse" id="collapseThree" aria-labelledby="headingThree" data-parent="#accordionExample">
-              <div class="card-body">
-                <p class="text-small text-muted">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-6">
-        <ul class="list-unstyled">
-          <li class="d-flex">
-            <svg class="svg-icon text-primary">
-              <use xlink:href="#sales-up-1"> </use>
-            </svg>
-            <div class="ml-3">
-              <h5>Talent &amp; HR Analytics</h5>
-              <p class="text-small text-muted">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. </p>
-            </div>
-          </li>
-          <li class="d-flex">
-            <svg class="svg-icon text-primary">
-              <use xlink:href="#shield-security-1"> </use>
-            </svg>
-            <div class="ml-3">
-              <h5>Fraud &amp; Risk Analytics</h5>
-              <p class="text-small text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-            </div>
-          </li>
-          <li class="d-flex">
-            <svg class="svg-icon text-primary">
-              <use xlink:href="#pie-chart-1"> </use>
-            </svg>
-            <div class="ml-3">
-              <h5>Marketing Analytics.</h5>
-              <p class="text-small text-muted">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat. </p>
-            </div>
-          </li>
-        </ul>
       </div>
     </div>
   </div>
