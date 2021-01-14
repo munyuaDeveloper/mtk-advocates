@@ -65,7 +65,7 @@
   </div>
   <div class="bg-darker py-4">
     <div class="container text-center">
-      <p class="mb-0 text-muted text-small">&copy; All rights reserved.</p>
+      <p class="mb-0 text-muted text-small"> All rights reserved&copy; 2021 MTK Advocates. Developed by <a target="_blank" href="https://uptechpay.com">Uptech Payouts</a></p>
     </div>
   </div>
 </footer>

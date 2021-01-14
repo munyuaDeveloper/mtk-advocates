@@ -15,9 +15,11 @@
 */
 .testimonial {
   position: relative;
-  background: url(../img/row-bgimage-3.png) no-repeat;
+  /* background: url(../img/row-bgimage-3.png) no-repeat; */
   background-position: top center;
   background-size: 70%;
+  height: 200px;
+  width: 100%;
 }
 
 .testimonial-img {
@@ -1109,7 +1111,7 @@ a.text-hover-dark:focus, a.text-hover-dark:hover {
 
 @media (max-width: 991.98px) {
   .hero-slide {
-    min-height: auto;
+    /* min-height: auto; */
   }
 }
 

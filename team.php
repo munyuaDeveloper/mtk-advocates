@@ -8,7 +8,8 @@ include('header.php')
 <nav class="navbar navbar-expand-lg navbar-light py-3 bg-white shadow-sm">
     <div class="container">
         <a class="navbar-brand" href="index.php">
-            <img class="img-fluid" src="img/logo2.png" alt="" width="400" height="100">
+            <img class="img-fluid big_logo" src="img/logo2.png" alt="" width="400" height="100">
+            <img class="img-fluid small_logo" src="img/logo.png" alt="" width="80" height="80">
         </a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">

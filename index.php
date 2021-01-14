@@ -8,7 +8,8 @@ include('header.php')
 <nav class="navbar navbar-expand-lg navbar-light py-3 bg-white shadow-sm">
   <div class="container">
     <a class="navbar-brand" href="index.php">
-      <img class="img-fluid" src="img/logo2.png" alt="" width="400" height="100">
+      <img class="img-fluid big_logo" src="img/logo2.png" alt="" width="400" height="100">
+      <img class="img-fluid small_logo" src="img/logo.png" alt="" width="80" height="80">
     </a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -38,7 +39,7 @@ include('header.php')
             <p class="lead">We carefully analyze and understand your vision and overall strategy in order to come up with a suitable legal strategy for you.</p>
             <ul class="list-inline">
               <li class="list-inline-item"><a class="btn btn-primary" href="about.php">Read More</a></li>
-              <li class="list-inline-item"><a class="btn btn-outline-light" href="#">Our company</a></li>
+              <li class="list-inline-item"><a class="btn btn-outline-light" href="contact.php">Contact Us</a></li>
             </ul>
           </div>
         </div>
@@ -49,11 +50,11 @@ include('header.php')
       <div class="container text-white py-5 index-forward">
         <div class="row">
           <div class="col-lg-7">
-            <h1>Working with your vision</h1>
-            <p class="lead">We carefully analyze and understand your vision and overall strategy in order to come up with a suitable legal strategy for you.</p>
+            <h1>Our experience </h1>
+            <p class="lead">Our team is comprised of highly qualified and upstanding individuals with diverse skills and a combined experience of over 20 years in legal practice.</p>
             <ul class="list-inline">
-              <li class="list-inline-item"><a class="btn btn-primary" href="#">Read More</a></li>
-              <li class="list-inline-item"><a class="btn btn-outline-light" href="#">Our company</a></li>
+              <li class="list-inline-item"><a class="btn btn-primary" href="about.php">Read More</a></li>
+              <li class="list-inline-item"><a class="btn btn-outline-light" href="contact.php">Contact Us</a></li>
             </ul>
           </div>
         </div>
@@ -63,12 +64,11 @@ include('header.php')
     <div class="hero-slide bg-size bg-center py-5" style="background: url(img/justice.jpg); background-size: cover">
       <div class="container text-white py-5 index-forward">
         <div class="row">
-          <div class="col-lg-7">
-            <h1>Working with your vision</h1>
-            <p class="lead">We carefully analyze and understand your vision and overall strategy in order to come up with a suitable legal strategy for you.</p>
+          <div class="col-lg-8">
+            <h1>Business is our signature. Your solutions start here</h1>
             <ul class="list-inline">
-              <li class="list-inline-item"><a class="btn btn-primary" href="#">Read More</a></li>
-              <li class="list-inline-item"><a class="btn btn-outline-light" href="#">Our company</a></li>
+              <li class="list-inline-item"><a class="btn btn-primary" href="about.php">Read More</a></li>
+              <li class="list-inline-item"><a class="btn btn-outline-light" href="contact.php">Contact Us</a></li>
             </ul>
           </div>
         </div>
@@ -78,7 +78,7 @@ include('header.php')
 </section>
 <!-- Features Section -->
 <section class="py-5 bg-light">
-  <div class="container py-5">
+  <div class="container">
     <div class="row">
       <div class="col-lg-6 order-2 order-lg-1">
         <p class="h6 mb-1 text-uppercase text-primary mb-3">Our main features</p>
@@ -272,7 +272,7 @@ include('header.php')
 </section>
 <!-- Features Section -->
 <section class="py-5 bg-light">
-  <div class="container py-5">
+  <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-5 px-lg-0">
         <div class="bg-primary pr-lg-3"><img class="w-100" src="img/legal.jpg" height="590" alt=""></div>
@@ -321,85 +321,71 @@ include('header.php')
   </div>
 </section>
 <!-- Testimonials Section-->
-<section class="py-5">
+<section>
   <div class="container py-5">
-    <p class="h6 mb-1 text-uppercase text-primary mb-3">Our clients say</p>
+    <p class="h6 mb-1 text-uppercase text-primary mb-3">Our clients</p>
     <div class="row mb-5">
       <div class="col-lg-5">
-        <h2 class="mb-5">The Best Solutions For Developing Your Business</h2>
+        <h2 class="mb-5">A sample of our corporate clients.</h2>
       </div>
       <div class="col-lg-7">
-        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p class="text-muted">In keeping up with global trends,
+          changing legal marketplace and client
+          expectations, our mission is to develop
+          long-term business relationships based
+          on practical wisdom, legal expertise and
+          trusted advice in offering legal
+          solutions.</p>
       </div>
     </div>
     <div class="testimonials-slider owl-carousel owl-theme">
-      <div class="testimonial p-5 shadow-sm m-2">
-        <div class="d-flex align-items-center mb-4">
-          <div class="testimonial-img"><img class="img-fluid rounded-circle" src="img/person-1.jpg" alt=""></div>
-          <div class="ml-3">
-            <h5 class="mb-0">Rodel Colez</h5>
-            <p class="small text-muted mb-1">Businessman</p>
-            <ul class="small list-inline text-primary mb-0">
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-            </ul>
+      <div class="testimonial">
+        <div class="card effect-2">
+          <div class="card-body">
+            <img class="img-fluid mx-auto" src="./img/diverse_logo_2.png" height="150" alt="">
+            <h5 class="text-center"></h5>
           </div>
         </div>
-        <p class="text-muted text-small mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
       </div>
-      <div class="testimonial p-5 shadow-sm m-2">
-        <div class="d-flex align-items-center mb-4">
-          <div class="testimonial-img"><img class="img-fluid rounded-circle" src="img/person-2.jpg" alt=""></div>
-          <div class="ml-3">
-            <h5 class="mb-0">Mark Huff</h5>
-            <p class="small text-muted mb-1">Businessman</p>
-            <ul class="small list-inline text-primary mb-0">
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-            </ul>
+      <div class="testimonial">
+        <div class="card effect-2">
+          <div class="card-body">
+            <img class="img-fluid mx-auto" src="./img/chantam_brand.png" height="150" alt="">
+            <h5 class="text-center"></h5>
           </div>
         </div>
-        <p class="text-muted text-small mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
       </div>
-      <div class="testimonial p-5 shadow-sm m-2">
-        <div class="d-flex align-items-center mb-4">
-          <div class="testimonial-img"><img class="img-fluid rounded-circle" src="img/person-1.jpg" alt=""></div>
-          <div class="ml-3">
-            <h5 class="mb-0">Rodel Colez</h5>
-            <p class="small text-muted mb-1">Businessman</p>
-            <ul class="small list-inline text-primary mb-0">
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-            </ul>
+      <div class="testimonial">
+        <div class="card effect-2">
+          <div class="card-body">
+            <img class="img-fluid mx-auto" src="" height="150" alt="Dahable Energy Limited">
+            <h5 class="text-center">Dahable Energy Limited</h5>
           </div>
         </div>
-        <p class="text-muted text-small mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
       </div>
-      <div class="testimonial p-5 shadow-sm m-2">
-        <div class="d-flex align-items-center mb-4">
-          <div class="testimonial-img"><img class="img-fluid rounded-circle" src="img/person-2.jpg" alt=""></div>
-          <div class="ml-3">
-            <h5 class="mb-0">Mark Huff</h5>
-            <p class="small text-muted mb-1">Businessman</p>
-            <ul class="small list-inline text-primary mb-0">
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-              <li class="list-inline-item m-0"><i class="fas fa-star"></i></li>
-            </ul>
+      <div class="testimonial">
+        <div class="card effect-2">
+          <div class="card-body">
+            <img class="img-fluid mx-auto" src="" height="150" alt="Stryke Energy Solutions Limited">
+            <h5 class="text-center">Stryke Energy Solutions Limited</h5>
           </div>
         </div>
-        <p class="text-muted text-small mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+      </div>
+      <div class="testimonial">
+        <div class="card effect-2">
+          <div class="card-body">
+            <img class="img-fluid mx-auto" src="" height="150" alt="Haibal Hauliers Limited">
+            <h5 class="text-center">Haibal Hauliers Limited</h5>
+          </div>
+        </div>
+      </div>
+      <div class="testimonial">
+        <div class="card effect-2">
+          <div class="card-body">
+            <img class="img-fluid mx-auto" src="" height="150" alt="Gala Cereals Limited">
+            <h5 class="text-center">Gala Cereals Limited</h5>
+          </div>
+        </div>
       </div>
     </div>
   </div>

@@ -3,12 +3,32 @@
 .logo {
         width: 400px;
     }
+     .small_logo {
+        display: none;
+        width: 70px;
+        height: 70px;
+    }
     
 @media (max-width: 575.98px) { 
     .logo {
         width: 100px;
     }
+      .big_logo {
+        display: none;
+    }
+    .small_logo {
+        display: block;
+    }
+    .hero-slide {
+        min-height: 530px !important;
+    }
  }
+
+element.style {
+    background: url(img/hammer-book.jpg);
+    background-size: cover;
+}
+
 .profile-header {
     transform: translateY(5rem);
 }
@@ -29,4 +49,37 @@
     background: #ddd;
     text-decoration: none;
     color: #555;
+}
+
+.testimonial-logo {
+    width: 100px !important;
+    height: 30px !important;
+}
+/* EFFECT 2 ========================================== */
+.effect-2::before{
+    position: absolute;
+    content: "";
+    z-index: -1;
+    bottom: 5px;
+    left: 30px;
+    right: 30px;
+    top: 80%;
+    background: #aaa;
+    box-shadow: 0 0 25px 10px #aaa;
+    border-radius: 100px/10px;
+}
+
+.testimonial {
+    height: 245px;
+}
+.owl-theme .owl-nav.disabled + .owl-dots {
+    margin-top: 0 !important;
+}
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+    height: 150px;
+}
+.owl-carousel .card-body{
+    min-height: 220px;
 }
