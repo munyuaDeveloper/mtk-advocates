@@ -41,12 +41,12 @@ include('header.php')
         <!-- For demo purpose -->
         <div class="row">
             <div class="col-lg-12 mx-auto text-center pt-2">
-                <h2 class="display-4">MEET THE DREAM TEAM</h2>
+                <h2 class="display-5">MEET THE DREAM TEAM</h2>
                 <p class="lead mb-0">Our team is comprised of highly qualified and upstanding individuals with diverse skills and a combined experience of over 20 years in legal practice.</p>
 
             </div>
         </div><!-- End -->
-        <div class="row py-3 px-4">
+        <div class="row py-3 px-sm-4">
             <div class="col-sm-12 mx-auto">
 
                 <!-- Profile widget -->
@@ -94,32 +94,17 @@ include('header.php')
                         <div class="d-flex align-items-center justify-content-between mb-3">
                             <h5 class="mb-0">About MR. Festus Murimi Kithinji</h5><a href="#" class="btn btn-link text-muted"></a>
                         </div>
-                        <p class="text-muted">Festus Murimi Kithinji is Partner at the Firm. He holds a Bachelor of Laws degree
-                            (LL.B) from Jomo Kenyatta University of Agriculture and Technology and a
-                            Post-Graduate Diploma in Law from the Kenya School of Law.</p>
-                        <p class="display-5">Work Experience: </p>
-                        <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted mb-2">In the past Three years, Festus has established himself in corporate, commercial law and Conveyancing matters.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Festus has worked at Miller & Company Advocates where he completed an internship and pupillage. During his internship, he participated in the reparations case for Mau Mau victims with over 21,000 claimants.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">He also worked at Capital Law Group as Commercial lawyer where he undertaken many complex assignments in corporate, commercial law and Conveyancing and gained substantial specialized experience in capital markets and corporate finance.</li>
-                        </ul>
-                        <p class="display-5">Areas of Practice: </p>
-                        <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted mb-2">Conveyancing.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Commercial law.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Labour and Employment
-                                matters and Succession matters.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Also selectively represents clients in criminal
-                                matters.</li>
-                        </ul>
-
+                        <p class="text-muted">Festus Murimi Kithinji holds a Bachelor of Laws Degree (LL.B) from Jomo Kenyatta University of Agriculture and Technology and a Post-Graduate Diploma in
+                            Law from the Kenya School of Law. He has over three years’ post admission
+                            experience majoring in corporate/commercial law and conveyancing matters.</p>
+                        <a href="./user-profile1.php"><button class="btn btn-sm btn-primary float-right mb-2"><i class="fa fa-eye"></i> Profile</button></a>
                     </div>
                 </div><!-- End profile widget -->
 
             </div>
         </div>
 
-        <div class="row py-3 px-4">
+        <div class="row py-3  px-sm-4">
             <div class="col-sm-12 mx-auto">
 
                 <!-- Profile widget -->
@@ -173,56 +158,14 @@ include('header.php')
                             undertaking his masters of law degree in environment Law at The University of
                             Nairobi and is projected to complete in 2019. He undertook his pupilage at Capi-
                             tal Law Group one of the leading firms in the area of cooperate/commercial law.</p>
-                        <p class="text-muted">
-                            Charles has been working as the Head Internal Legal department at Ainushamsi
-                            Energy Limited since 2015. He handled all the company’s legal matters and inter-
-                            faced with retained company advocates to attend to all legal matters.
-                        </p>
-                        <p class="display-5">He specifically in charge of;</p>
-                        <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted mb-2">Drafting, negotiating, execution and registration of all the company’s service station leases.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Liaising with the company’s external advocates in preparing and executing all the company’s contracts and commercial agreements.</li>
-
-                            <li class="text-small text-muted col-sm-12 mb-2">
-                                Negotiation and registration of chattels for movable properties and charges/dis-charges for fixed properties.</li>
-
-                            <li class="text-small text-muted col-sm-12 mb-2">Liaising with the external advocates in making the company’s annual returns.</li>
-
-                            <li class="text-small text-muted col-sm-12 mb-2">Preparing and executing tenancy agreements for the various company’s facilities.</li>
-
-                            <li class="text-small text-muted col-sm-12 mb-2">Registering the company’s intellectual property with the Kenya Industrial Property Institute (KIPI).</li>
-                        </ul>
-                        <p class="display-5">Work Experience: </p>
-                        <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted col-sm-12 mb-2">
-                                Charles has been working in the energy sector and particularly the oil and gas
-                                sub-sector for the past 10 years. He is well versed with legislation and regulations
-                                relating to the integrated oil sector incorporating upstream, midstream and downstream petroleum operations. His experience straddles oil exploration and
-                                production, oil trading and shipping and supply and distribution and retail of
-                                petroleum products. He has also specialized in the area of environment law and
-                                is on course to certification as a lead expert in this area upon completion of the
-                                Master of Laws program.
-                            </li>
-                            <li class="text-small text-muted col-sm-12 mb-2">
-                                Charles has also established himself in the area of alternative dispute resolution
-                                and is undertaking continuous training in this area covering mediation, arbitration,
-                                negotiations and conciliations. These mechanisms are encouraged by the Constitution of Kenya to provide an alternative to litigation as a more expeditious ad less
-                                adversarial means of resolving disputes between parties.
-                            </li>
-                            <li class="text-small text-muted col-sm-12 mb-2">
-                                Charles has also contributed to the development of law in the country. His under-
-                                graduate research paper titled ‘Formulation of a regulatory framework to guide in
-                                the administration of the right to bail and bond pursuant to Article 49 (h) of the
-                                Constitution’ was one of the reference materials used by the Judiciary in formulation of bail and policy guidelines in 2015. These guidelines have ensured that there
-                                is clarity in granting of bail and bond to accused persons brought before courts.
-                            </li>
+                        <a href="./user-profile2.php"><button class="btn btn-sm btn-primary float-right mb-2"><i class="fa fa-eye"></i> Profile</button></a>
 
                     </div>
                 </div><!-- End profile widget -->
             </div><!-- End profile widget -->
 
         </div>
-        <div class="row py-3 px-4">
+        <div class="row py-3  px-sm-4">
             <div class="col-sm-12 mx-auto">
 
                 <!-- Profile widget -->
@@ -267,19 +210,140 @@ include('header.php')
 
                     <div class="py-2 px-4">
                         <div class="d-flex align-items-center justify-content-between mb-3">
-                            <h5 class="mb-0">About MR. Charles Thiongo</h5><a href="#" class="btn btn-link text-muted"></a>
+                            <h5 class="mb-0">About MR. Peter Mungai</h5><a href="#" class="btn btn-link text-muted"></a>
                         </div>
-                        <p>Kung’u worked with judiciary as a legal researcher for over one year and aided in drafting of major rulings and judgments.</p>
-                        <p class="display-5">Work Experience: </p>
-                        <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted col-sm-12 mb-2">Has worked with Martha Maina & Associates for two years majoring on in conveyance and corporate law.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Has worked with Njiiri kariu Advocates for more than 4 years handling litigation, both civil and criminal ,conveyance ,corporate law,family ,constitutional and administrative law.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Has vast experience in legal research,drafting and litigation. Major achievements</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Drafted protection against domestic violence Act 2015.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Authoring thoroughly researched papers on variety of legal issues such as death penalty and conservative of environment.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Legislative and policy analysis.</li>
-                        </ul>
+                        <p class="text-muted">Peter Mungai Kung’u holds a Bachelor of Laws Degree (LLB) from Moi University
+                            and a Post Graduate Diploma from Kenya School of Law. He is a practicing Advocate with strong foundation in litigation and court processes having worked with
+                            the judiciary as a legal researcher and aided in drafting and preparing of major
+                            rulings and judgments.</p>
 
+                        <a href="./user-profile3.php"><button class="btn btn-sm btn-primary float-right mb-2"><i class="fa fa-eye"></i> Profile</button></a>
+                    </div>
+                </div><!-- End profile widget -->
+
+            </div>
+        </div>
+
+        <div class="row py-3  px-sm-4">
+            <div class="col-sm-12 mx-auto">
+
+                <!-- Profile widget -->
+                <div class="bg-white shadow rounded overflow-hidden">
+                    <div class="px-4 pt-0 pb-4 bg-primary">
+                        <div class="media align-items-end profile-header">
+                            <div class="profile mr-3"><img src="./img/tabitha.png" alt="..." width="130" class="rounded mb-2 img-thumbnail">
+                            </div>
+                            <div class="media-body mb-5 text-white">
+                                <h4 class="mt-0 mb-0">MRS. TABITHA GACHOKA</h4>
+                                <p class="small mb-4">Human Resource & Administration Officer</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-light p-4 d-flex justify-content-end text-center">
+                        <ul class="social mb-0 list-inline mt-3">
+                            <li class="list-inline-item">
+
+                                <a href="#" class="social-link">
+                                    <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
+                                </a>
+
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#" class="social-link">
+                                    <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#" class="social-link">
+                                    <img src="./img/instagram-brands.svg" alt="..." height="20" width="20">
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#" class="social-link">
+                                    <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="py-2 px-4">
+                        <div class="d-flex align-items-center justify-content-between mb-3">
+                            <h5 class="mb-0">About MRS. Tabitha Gachoka</h5><a href="#" class="btn btn-link text-muted"></a>
+                        </div>
+                        <p class="text-muted">Tabitha handles the firm’s human resource and administration affairs. She is a
+                            holder of a Diploma in Human Resource and Adminstration from Kiambu
+                            Institute of Science and Technology (KIST). She has also worked with various
+                            organizations including Kenya Broadcasting Corporation (KBC), Safaricom PLC,
+                            and Ministry of Lands & Housing. She has also worked with Hallmark Advertising Agency as a marketing and brand positioning officer. Her key skills include
+                            professionalism, excellent customer service skills and a keen attention to detail.
+                            These skills serve her in good stead in execution of her duties at the Firm.</p>
+
+                        <a href="./user-profile4.php"><button class="btn btn-sm btn-primary float-right mb-2"><i class="fa fa-eye"></i> Profile</button></a>
+                    </div>
+                </div><!-- End profile widget -->
+
+            </div>
+        </div>
+        <div class="row py-3  px-sm-4">
+            <div class="col-sm-12 mx-auto">
+
+                <!-- Profile widget -->
+                <div class="bg-white shadow rounded overflow-hidden">
+                    <div class="px-4 pt-0 pb-4 bg-primary">
+                        <div class="media align-items-end profile-header">
+                            <div class="profile mr-3"><img src="./img/njoroge.png" alt="..." width="130" class="rounded mb-2 img-thumbnail">
+                            </div>
+                            <div class="media-body mb-5 text-white">
+                                <h4 class="mt-0 mb-0">MRS. PETER NJOROGE NJONGE</h4>
+                                <p class="small mb-4">Court Clerk</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-light p-4 d-flex justify-content-end text-center">
+                        <ul class="social mb-0 list-inline mt-3">
+                            <li class="list-inline-item">
+
+                                <a href="#" class="social-link">
+                                    <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
+                                </a>
+
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#" class="social-link">
+                                    <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#" class="social-link">
+                                    <img src="./img/instagram-brands.svg" alt="..." height="20" width="20">
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#" class="social-link">
+                                    <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="py-2 px-4">
+                        <div class="d-flex align-items-center justify-content-between mb-3">
+                            <h5 class="mb-0">About MR. Peter Njoroge</h5><a href="#" class="btn btn-link text-muted"></a>
+                        </div>
+                        <p class="text-muted">Mr. Njonge is a trained clerk and has a vast experience in court processes such as;
+                            filing, service of pleadings as well as general management of a law firm's registry.
+                            He has over three decades of practice as a court clerk since he first joined the law
+                            firm of Kaparo and Waweru Advocates in 1984, a position he held for more than
+                            5 years actively engaged in the court process duties.
+                            Mr Njonge left Kaparo and Waweru Advocates and joined Macharia Njeru Advocates in 1992 where he worked upto 1995. While there ,he was also actively
+                            involved in clerical work such perusal of files at the court registry, filing, service,
+                            management of the office registry, conducting searches at various lands and com-
+                            pany registries as well as maintaining a proper diary for daily activities of the
+                            office.</p>
+
+                        <a href="./user-profile5.php"><button class="btn btn-sm btn-primary float-right mb-2"><i class="fa fa-eye"></i> Profile</button></a>
                     </div>
                 </div><!-- End profile widget -->
 

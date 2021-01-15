@@ -35,8 +35,9 @@ include('header.php')
       <div class="container text-white py-5 index-forward">
         <div class="row">
           <div class="col-lg-7">
-            <h1>Working with your vision</h1>
-            <p class="lead">We carefully analyze and understand your vision and overall strategy in order to come up with a suitable legal strategy for you.</p>
+            <h1>Our mission</h1>
+            <p class="lead">To offer robust legal solutions guided by ethical resourcefulness and use of modern
+              technology to deliver value to all our clients and stakeholders.</p>
             <ul class="list-inline">
               <li class="list-inline-item"><a class="btn btn-primary" href="about.php">Read More</a></li>
               <li class="list-inline-item"><a class="btn btn-outline-light" href="contact.php">Contact Us</a></li>
@@ -65,7 +66,10 @@ include('header.php')
       <div class="container text-white py-5 index-forward">
         <div class="row">
           <div class="col-lg-8">
-            <h1>Business is our signature. Your solutions start here</h1>
+            <h1>Our professional indemnity</h1>
+            <p class="lead">The Firm undertakes to maintain sufficient professional indemnity cover to secure the transactions
+              that we undertake on behalf of our clients. Each Partner also maintains a personal professional
+              indemnity cover.</p>
             <ul class="list-inline">
               <li class="list-inline-item"><a class="btn btn-primary" href="about.php">Read More</a></li>
               <li class="list-inline-item"><a class="btn btn-outline-light" href="contact.php">Contact Us</a></li>
@@ -279,7 +283,7 @@ include('header.php')
       </div>
       <div class="col-lg-7 px-lg-0">
         <div class="p-4 p-md-5 shadow bg-white">
-          <p class="h6 mb-1 text-uppercase text-primary mb-3">OUR SERVICES</p>
+          <p class="h6 mb-1 text-uppercase text-primary mb-3">CORE PRACTICE AREAS</p>
           <h3 class="mb-5">We Provide Experts To Create A Great Value For Your Business</h3>
           <div class="row">
             <div class="col-lg-12">
@@ -323,12 +327,10 @@ include('header.php')
 <!-- Testimonials Section-->
 <section>
   <div class="container py-5">
-    <p class="h6 mb-1 text-uppercase text-primary mb-3">Our clients</p>
+    <p class="h6 mb-1 text-uppercase text-primary text-center mb-3">Our clients</p>
     <div class="row mb-5">
-      <div class="col-lg-5">
-        <h2 class="mb-5">A sample of our corporate clients.</h2>
-      </div>
-      <div class="col-lg-7">
+      <div class="col-12 text-center">
+        <h2 class="">A sample of our corporate clients.</h2>
         <p class="text-muted">In keeping up with global trends,
           changing legal marketplace and client
           expectations, our mission is to develop
@@ -338,56 +340,40 @@ include('header.php')
           solutions.</p>
       </div>
     </div>
-    <div class="testimonials-slider owl-carousel owl-theme">
-      <div class="testimonial">
-        <div class="card effect-2">
-          <div class="card-body">
-            <img class="img-fluid mx-auto" src="./img/diverse_logo_2.png" height="150" alt="">
-            <h5 class="text-center"></h5>
-          </div>
+    <div class="container mx-md-5">
+      <div class="row mx-md-5">
+        <div class="col-sm-6">
+          <ul class="list-check list-unstyled row mb-4">
+            <li class="text-small text-muted mb-2 col-12">Trinity Credit Ltd</li>
+            <li class="text-small text-muted mb-2">Sumac Microfinance Bank Limited</li>
+            <li class="text-small text-muted mb-2 col-12">Fariji Sacco Society Limited</li>
+            <li class="text-small text-muted mb-2">Diverse Cargo and Air Services</li>
+            <li class="text-small text-muted mb-2 col-12">Caslam Ventures Limited</li>
+            <li class="text-small text-muted mb-2">Kamsim Construction Ltd</li>
+            <li class="text-small text-muted mb-2 col-12">Chantam Energy Limited</li>
+            <li class="text-small text-muted mb-2">Dahable Energy Limited</li>
+            <li class="text-small text-muted mb-2 col-12">Stryke Energy Solutions Limited</li>
+            <li class="text-small text-muted mb-2">Haibal Hauliers Limited</li>
+          </ul>
         </div>
-      </div>
-      <div class="testimonial">
-        <div class="card effect-2">
-          <div class="card-body">
-            <img class="img-fluid mx-auto" src="./img/chantam_brand.png" height="150" alt="">
-            <h5 class="text-center"></h5>
-          </div>
-        </div>
-      </div>
-      <div class="testimonial">
-        <div class="card effect-2">
-          <div class="card-body">
-            <img class="img-fluid mx-auto" src="" height="150" alt="Dahable Energy Limited">
-            <h5 class="text-center">Dahable Energy Limited</h5>
-          </div>
-        </div>
-      </div>
-      <div class="testimonial">
-        <div class="card effect-2">
-          <div class="card-body">
-            <img class="img-fluid mx-auto" src="" height="150" alt="Stryke Energy Solutions Limited">
-            <h5 class="text-center">Stryke Energy Solutions Limited</h5>
-          </div>
-        </div>
-      </div>
-      <div class="testimonial">
-        <div class="card effect-2">
-          <div class="card-body">
-            <img class="img-fluid mx-auto" src="" height="150" alt="Haibal Hauliers Limited">
-            <h5 class="text-center">Haibal Hauliers Limited</h5>
-          </div>
-        </div>
-      </div>
-      <div class="testimonial">
-        <div class="card effect-2">
-          <div class="card-body">
-            <img class="img-fluid mx-auto" src="" height="150" alt="Gala Cereals Limited">
-            <h5 class="text-center">Gala Cereals Limited</h5>
-          </div>
+        <div class="col-sm-6">
+          <ul class="list-check list-unstyled row mb-4">
+            <li class="text-small text-muted mb-2 col-12">Gala Cereals Limited</li>
+            <li class="text-small text-muted mb-2">Lewison Group Limited</li>
+            <li class="text-small text-muted mb-2 col-12">Fredrick Fyle & Company Limited</li>
+            <li class="text-small text-muted mb-2">Imara Dairy Limited</li>
+            <li class="text-small text-muted mb-2 col-12">Riviera Investment Limited</li>
+            <li class="text-small text-muted mb-2">Allison & Davis Group</li>
+            <li class="text-small text-muted mb-2 col-12">Jumbo DAA Kenya Motors</li>
+            <li class="text-small text-muted mb-2">Githunguri Jua Kali Sacco</li>
+            <li class="text-small text-muted mb-2 col-12">Quarich Investment Group</li>
+            <li class="text-small text-muted mb-2">Rash Energy Solutions Limited</li>
+          </ul>
         </div>
       </div>
     </div>
+
+
   </div>
 </section>
 <?php
