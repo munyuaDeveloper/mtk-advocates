@@ -56,66 +56,66 @@ include('header.php')
                     </div>
 
                     <div class="bg-light p-4 d-flex justify-content-end text-center">
-                        <ul class="social mb-0 list-inline mt-3">
-                            <li class="list-inline-item">
+                       <ul class="social mb-0 list-inline mt-3">
+                           <li class="list-inline-item">
 
-                                <a href="#" class="social-link">
-                                    <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
-                                </a>
+                               <a href="#"  target="_blank" class="social-link">
+                                   <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
+                               </a>
 
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/instagram-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                        </ul>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="#"  target="_blank" class="social-link">
+                                   <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="#" target="_blank"  class="social-link">
+                                   <img src="./img/whatsapp-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="#" target="_blank" class="social-link">
+                                   <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                       </ul>
                     </div>
 
                     <div class="py-2 px-4">
                         <div class="d-flex align-items-center justify-content-between mb-3">
-                            <h5 class="mb-0">About MR. Charles Thiongo</h5><a href="#" class="btn btn-link text-muted"></a>
+                            <h5 class="mb-0">About MR. Charles Thiongo</h5><a href="#" class="btn btn-link"></a>
                         </div>
-                        <p class="text-muted">Peter Mungai Kung’u holds a Bachelor of Laws Degree (LLB) from Moi University
+                        <p class="text-small">Peter Mungai Kung’u holds a Bachelor of Laws Degree (LLB) from Moi University
                             and a Post Graduate Diploma from Kenya School of Law. He is a practicing Advocate with strong foundation in litigation and court processes having worked with
                             the judiciary as a legal researcher and aided in drafting and preparing of major
                             rulings and judgments.</p>
 
                         <p class="display-5">Work Experience: </p>
                         <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted col-sm-12 mb-2">He has worked with the law firm of Martha Maina & Associates for more
+                            <li class="text-small col-sm-12 mb-2">He has worked with the law firm of Martha Maina & Associates for more
                                 than two years specializing in conveyance and corporate law. While there, Peter
                                 oversaw sale and purchase of some high value properties within the Republic
                                 involving both corporate and individual clients. This entailed undertaking due
                                 diligence from inception to completion of each transaction undertaken.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Peter has also been involved in registration of business entities including limited
+                            <li class="text-small col-sm-12 mb-2">Peter has also been involved in registration of business entities including limited
                                 liability companies, business names and societies. He has also prepared minutes
                                 for various companies during Annual General Meetings (AGM’s) and Special
                                 General Meetings (SGM’s) as well as filing annual returns with the Registrar of
                                 Companies and of Kenya Revenue Authority on behalf of the corporate clients.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Peter has also worked with the firm of P.K.Njiiri & Co.Advocates for more than
+                            <li class="text-small col-sm-12 mb-2">Peter has also worked with the firm of P.K.Njiiri & Co.Advocates for more than
                                 4 years and has actively been involved in litigation, both civil and criminal. He is
                                 therefore well versed with the entire court process including filings, submissions
                                 and document processing. He has prepared pleadings and submitted in court and
                                 tribunals matters of weighty jurisprudence. He has also handled conveyance and
                                 corporate transactions as well as litigating on constitutional and administrative
                                 matters.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Mr. Kung’u also has also built vast experience in legal research, writing and draft-
+                            <li class="text-small  col-sm-12 mb-2">Mr. Kung’u also has also built vast experience in legal research, writing and draft-
                                 ing. His thesis titled “The law and policy dealing with domestic violence; Practice,
                                 challenges and prospects for reforms” was very instrumental in the drafting and
                                 enactment of Protection against Domestic Violence Act 2015 that is the law deal-
                                 ing with all domestic violence cases.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">His critique on the new Land Laws in 2012 was also instrumental in advising
+                            <li class="text-small col-sm-12 mb-2">His critique on the new Land Laws in 2012 was also instrumental in advising
                                 the National Land Commission in proper implementation of the land laws.
                                 He has also authored and researched on a variety of legal issues including the
                                 death penalty and conservation of environment which legal practitioners and
@@ -123,8 +123,8 @@ include('header.php')
                         </ul>
                         <p class="display-5">Membership </p>
                         <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted mb-2 col-12">Member of the Law Society of Kenya</li>
-                            <li class="text-small text-muted mb-2">Member of the East African Law Society</li>
+                            <li class="text-small mb-2 col-12">Member of the Law Society of Kenya</li>
+                            <li class="text-small mb-2">Member of the East African Law Society</li>
                         </ul>
                     </div>
                 </div><!-- End profile widget -->

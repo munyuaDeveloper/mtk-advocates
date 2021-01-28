@@ -67,23 +67,23 @@ include('header.php')
                         <ul class="social mb-0 list-inline mt-3">
                             <li class="list-inline-item">
 
-                                <a href="#" class="social-link">
+                                <a href="https://www.facebook.com/FESTUSMURIMIK"  target="_blank" class="social-link">
                                     <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
                                 </a>
 
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
+                                <a href="https://twitter.com/FestusMurimi7"  target="_blank" class="social-link">
                                     <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/instagram-brands.svg" alt="..." height="20" width="20">
+                                <a href="https://wa.me/254724835987?" target="_blank"  class="social-link">
+                                    <img src="./img/whatsapp-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
+                                <a href="https://www.linkedin.com/in/festus-murimi-8b5599127/" target="_blank" class="social-link">
                                     <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
@@ -92,9 +92,9 @@ include('header.php')
 
                     <div class="py-2 px-4">
                         <div class="d-flex align-items-center justify-content-between mb-3">
-                            <h5 class="mb-0">About MR. Festus Murimi Kithinji</h5><a href="#" class="btn btn-link text-muted"></a>
+                            <h5 class="mb-0">About MR. Festus Murimi Kithinji</h5><a href="#" class="btn btn-link "></a>
                         </div>
-                        <p class="text-muted">Festus Murimi Kithinji holds a Bachelor of Laws Degree (LL.B) from Jomo Kenyatta University of Agriculture and Technology and a Post-Graduate Diploma in
+                        <p class="">Festus Murimi Kithinji holds a Bachelor of Laws Degree (LL.B) from Jomo Kenyatta University of Agriculture and Technology and a Post-Graduate Diploma in
                             Law from the Kenya School of Law. He has over three years’ post admission
                             experience majoring in corporate/commercial law and conveyancing matters.</p>
                         <a href="./user-profile1.php"><button class="btn btn-sm btn-primary float-right mb-2"><i class="fa fa-eye"></i> Profile</button></a>
@@ -124,23 +124,23 @@ include('header.php')
                         <ul class="social mb-0 list-inline mt-3">
                             <li class="list-inline-item">
 
-                                <a href="#" class="social-link">
+                                <a href="#"  target="_blank" class="social-link">
                                     <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
                                 </a>
 
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
+                                <a href="#"  target="_blank" class="social-link">
                                     <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/instagram-brands.svg" alt="..." height="20" width="20">
+                                <a href="#" target="_blank"  class="social-link">
+                                    <img src="./img/whatsapp-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
+                                <a href="#" target="_blank" class="social-link">
                                     <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
@@ -149,9 +149,9 @@ include('header.php')
 
                     <div class="py-2 px-4">
                         <div class="d-flex align-items-center justify-content-between mb-3">
-                            <h5 class="mb-0">About MR. Charles Thiongo</h5><a href="#" class="btn btn-link text-muted"></a>
+                            <h5 class="mb-0">About MR. Charles Thiongo</h5><a href="#" class="btn btn-link "></a>
                         </div>
-                        <p class="text-muted">Charles holds a Bachelor of Laws (LL.B) degree from the University of Nairobi
+                        <p class="">Charles holds a Bachelor of Laws (LL.B) degree from the University of Nairobi
                             where he graduated in 2015 with Honours at Second Class, Upper Division.
                             Charles also holds a Post Graduate Diploma in Law from the Kenya School of
                             Law and is a practicing Advocate of the High Court of Kenya. He is currently
@@ -185,23 +185,23 @@ include('header.php')
                         <ul class="social mb-0 list-inline mt-3">
                             <li class="list-inline-item">
 
-                                <a href="#" class="social-link">
+                                <a href="#"  target="_blank" class="social-link">
                                     <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
                                 </a>
 
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
+                                <a href="#"  target="_blank" class="social-link">
                                     <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/instagram-brands.svg" alt="..." height="20" width="20">
+                                <a href="#" target="_blank"  class="social-link">
+                                    <img src="./img/whatsapp-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
+                                <a href="#" target="_blank" class="social-link">
                                     <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
@@ -210,9 +210,9 @@ include('header.php')
 
                     <div class="py-2 px-4">
                         <div class="d-flex align-items-center justify-content-between mb-3">
-                            <h5 class="mb-0">About MR. Peter Mungai</h5><a href="#" class="btn btn-link text-muted"></a>
+                            <h5 class="mb-0">About MR. Peter Mungai</h5><a href="#" class="btn btn-link "></a>
                         </div>
-                        <p class="text-muted">Peter Mungai Kung’u holds a Bachelor of Laws Degree (LLB) from Moi University
+                        <p class="">Peter Mungai Kung’u holds a Bachelor of Laws Degree (LLB) from Moi University
                             and a Post Graduate Diploma from Kenya School of Law. He is a practicing Advocate with strong foundation in litigation and court processes having worked with
                             the judiciary as a legal researcher and aided in drafting and preparing of major
                             rulings and judgments.</p>
@@ -244,23 +244,23 @@ include('header.php')
                         <ul class="social mb-0 list-inline mt-3">
                             <li class="list-inline-item">
 
-                                <a href="#" class="social-link">
+                                <a href="#"  target="_blank" class="social-link">
                                     <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
                                 </a>
 
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
+                                <a href="#"  target="_blank" class="social-link">
                                     <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/instagram-brands.svg" alt="..." height="20" width="20">
+                                <a href="#" target="_blank"  class="social-link">
+                                    <img src="./img/whatsapp-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
+                                <a href="#" target="_blank" class="social-link">
                                     <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
@@ -269,9 +269,9 @@ include('header.php')
 
                     <div class="py-2 px-4">
                         <div class="d-flex align-items-center justify-content-between mb-3">
-                            <h5 class="mb-0">About MRS. Tabitha Gachoka</h5><a href="#" class="btn btn-link text-muted"></a>
+                            <h5 class="mb-0">About MRS. Tabitha Gachoka</h5><a href="#" class="btn btn-link "></a>
                         </div>
-                        <p class="text-muted">Tabitha handles the firm’s human resource and administration affairs. She is a
+                        <p class="">Tabitha handles the firm’s human resource and administration affairs. She is a
                             holder of a Diploma in Human Resource and Adminstration from Kiambu
                             Institute of Science and Technology (KIST). She has also worked with various
                             organizations including Kenya Broadcasting Corporation (KBC), Safaricom PLC,
@@ -305,23 +305,23 @@ include('header.php')
                         <ul class="social mb-0 list-inline mt-3">
                             <li class="list-inline-item">
 
-                                <a href="#" class="social-link">
+                                <a href="#"  target="_blank" class="social-link">
                                     <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
                                 </a>
 
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
+                                <a href="#"  target="_blank" class="social-link">
                                     <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/instagram-brands.svg" alt="..." height="20" width="20">
+                                <a href="#" target="_blank"  class="social-link">
+                                    <img src="./img/whatsapp-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#" class="social-link">
+                                <a href="#" target="_blank" class="social-link">
                                     <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
                                 </a>
                             </li>
@@ -330,9 +330,9 @@ include('header.php')
 
                     <div class="py-2 px-4">
                         <div class="d-flex align-items-center justify-content-between mb-3">
-                            <h5 class="mb-0">About MR. Peter Njoroge</h5><a href="#" class="btn btn-link text-muted"></a>
+                            <h5 class="mb-0">About MR. Peter Njoroge</h5><a href="#" class="btn btn-link "></a>
                         </div>
-                        <p class="text-muted">Mr. Njonge is a trained clerk and has a vast experience in court processes such as;
+                        <p class="">Mr. Njonge is a trained clerk and has a vast experience in court processes such as;
                             filing, service of pleadings as well as general management of a law firm's registry.
                             He has over three decades of practice as a court clerk since he first joined the law
                             firm of Kaparo and Waweru Advocates in 1984, a position he held for more than

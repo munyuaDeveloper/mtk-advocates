@@ -57,74 +57,74 @@ include('header.php')
                     </div>
 
                     <div class="bg-light p-4 d-flex justify-content-end text-center">
-                        <ul class="social mb-0 list-inline mt-3">
-                            <li class="list-inline-item">
+                       <ul class="social mb-0 list-inline mt-3">
+                           <li class="list-inline-item">
 
-                                <a href="#" class="social-link">
-                                    <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
-                                </a>
+                               <a href="https://www.facebook.com/FESTUSMURIMIK"  target="_blank" class="social-link">
+                                   <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
+                               </a>
 
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/instagram-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                        </ul>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="https://twitter.com/FestusMurimi7"  target="_blank" class="social-link">
+                                   <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="https://wa.me/254724835987?" target="_blank"  class="social-link">
+                                   <img src="./img/whatsapp-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="https://www.linkedin.com/in/festus-murimi-8b5599127/" target="_blank" class="social-link">
+                                   <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                       </ul>
                     </div>
 
                     <div class="py-2 px-4">
                         <div class="d-flex align-items-center justify-content-between mb-3">
                             <h5 class="mb-0">About MR. Festus Murimi Kithinji</h5><a href="#" class="btn btn-link text-muted"></a>
                         </div>
-                        <p class="text-muted">Festus Murimi Kithinji holds a Bachelor of Laws Degree (LL.B) from Jomo Ken-
+                        <p class="text-small">Festus Murimi Kithinji holds a Bachelor of Laws Degree (LL.B) from Jomo Ken-
                             yatta University of Agriculture and Technology and a Post-Graduate Diploma in
                             Law from the Kenya School of Law. He has over three years’ post admission
                             experience majoring in corporate/commercial law and conveyancing matters.</p>
                         <p class="display-5">Work Experience: </p>
                         <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted mb-2">Festus has worked with leading law firms in the country. He worked with the Firm
+                            <li class="text-small mb-2">Festus has worked with leading law firms in the country. He worked with the Firm
                                 of Miller & Company Advocates where he completed his internship and pupillage. During his period of work there he actively participated in the successful
                                 and high profile reparations Mau Mau case involving over 21,000 claimants
                                 against the British government. He was also involved in key briefs on real estate
                                 projects, debt recovery, drafting security documentation, preparation of debentures and banking law & practice.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Festus has subsequently worked with Capital Law Group (CLG), one of the leading firms in the area of corporate/commercial Law as Commercial lawyer. He has
+                            <li class="text-small col-sm-12 mb-2">Festus has subsequently worked with Capital Law Group (CLG), one of the leading firms in the area of corporate/commercial Law as Commercial lawyer. He has
                                 undertaken many complex assignments in the area corporate/commercial law and
                                 conveyancing and gained specialized experience in the areas of capital markets
                                 and corporate finance.</li>
                         </ul>
                         <p class="display-5">Areas of Practice: </p>
                         <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted mb-2">Corporate and commercial law which includes drafting commercial documents for key financial institutions and insurance companies.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Commercial and civil mediation, comparative constitutional and human rights
+                            <li class="text-small mb-2">Corporate and commercial law which includes drafting commercial documents for key financial institutions and insurance companies.</li>
+                            <li class="text-small  col-sm-12 mb-2">Commercial and civil mediation, comparative constitutional and human rights
                                 law, judicial review and intellectual property law involving registration of intellectual property rights, patent and copyrights</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Probate and administration matters especially in drafting trusts and estates relating to wills, succession, probate and divorce.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Conveyance and property law especially drafting of security documents and
+                            <li class="text-small  col-sm-12 mb-2">Probate and administration matters especially in drafting trusts and estates relating to wills, succession, probate and divorce.</li>
+                            <li class="text-small  col-sm-12 mb-2">Conveyance and property law especially drafting of security documents and
                                 agreements for commercial banks in Kenya.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Advisory role in relation to contentious and non-contentious matters.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Criminal litigation and defence.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Representing local banks in secured financing transactions.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Representation in contested arbitration matters.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Legal advice and representation in relation to commercial and residential.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Legal advice to micro finance lending institutions and SACCOS.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Legal advice to individuals in relation to borrowing transactions.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Negotiations on behalf of a client in relation to a discharge and charge of property with a local financial institution.</li>
+                            <li class="text-small  col-sm-12 mb-2">Advisory role in relation to contentious and non-contentious matters.</li>
+                            <li class="text-small  col-sm-12 mb-2">Criminal litigation and defence.</li>
+                            <li class="text-small  col-sm-12 mb-2">Representing local banks in secured financing transactions.</li>
+                            <li class="text-small  col-sm-12 mb-2">Representation in contested arbitration matters.</li>
+                            <li class="text-small  col-sm-12 mb-2">Legal advice and representation in relation to commercial and residential.</li>
+                            <li class="text-small  col-sm-12 mb-2">Legal advice to micro finance lending institutions and SACCOS.</li>
+                            <li class="text-small  col-sm-12 mb-2">Legal advice to individuals in relation to borrowing transactions.</li>
+                            <li class="text-small  col-sm-12 mb-2">Negotiations on behalf of a client in relation to a discharge and charge of property with a local financial institution.</li>
                         </ul>
 
                         <p class="display-5">Membership </p>
                         <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted mb-2 col-12">Member of the Law Society of Kenya</li>
-                            <li class="text-small text-muted mb-2">Member of the East African Law Society</li>
+                            <li class="text-small  mb-2 col-12">Member of the Law Society of Kenya</li>
+                            <li class="text-small mb-2">Member of the East African Law Society</li>
                         </ul>
                     </div>
                 </div><!-- End profile widget -->

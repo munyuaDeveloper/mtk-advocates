@@ -19,7 +19,7 @@ include('header.php')
         <li class="nav-item mx-2"><a class="nav-link text-uppercase" href="team.php">Our Team</a></li>
         <li class="nav-item mx-2 active"><a class="nav-link text-uppercase" href="contact.php">Contact</a></li>
         <!-- <li class="nav-item ml-2 dropdown"><a class="nav-link text-uppercase dropdown-toggle pr-0" id="navbarDropdownMenuLink" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
-                <div class="dropdown-menu mt-lg-4" aria-labelledby="navbarDropdownMenuLink"><a class="dropdown-item font-weight-bold text-small" href="index.html">Home</a><a class="dropdown-item font-weight-bold text-small" href="about.html">About</a><a class="dropdown-item font-weight-bold text-small" href="contact.html">Contact                </a></div>
+                <div class="dropdown-menu mt-lg-4" aria-labelledby="navbarDropdownMenuLink"><a class="dropdown-item font-weight-bold " href="index.html">Home</a><a class="dropdown-item font-weight-bold " href="about.html">About</a><a class="dropdown-item font-weight-bold " href="contact.html">Contact                </a></div>
               </li>
               <li class="nav-item ml-lg-3 pl-lg-3"><a class="btn btn-outline-primary btn-sm" href="contact.html">Request a quote</a></li> -->
       </ul>
@@ -80,13 +80,13 @@ include('header.php')
       </div>
       <div class="col-lg-4">
         <h3>Have a quesion?</h3>
-        <p class="text-muted mb-3">MURIMI, THIONGO, KUNGU & COMPANY ADVOCATES.</p>
+        <p class=" mb-3">MURIMI, THIONGO, KUNGU & COMPANY ADVOCATES.</p>
         <ul class="list-unstyled">
           <li class="d-flex mb-3">
             <!-- <div class="icon bg-primary"><i class="fas fa-map-marker-alt text-white fa-fw"></i></div> -->
             <div class="ml-3">
               <h5 class="mb-0">Head Office;</h5>
-              <p class="text-muted text-small">
+              <p class=" ">
                 Windsor House, 4th Floor , Room No. 403 University Way (Opposite
                 Central Police Station)</p>
             </div>
@@ -95,11 +95,11 @@ include('header.php')
             <!-- <div class="icon bg-primary"><i class="fas fa-envelope text-white fa-fw"></i></div> -->
             <div class="ml-3">
               <h5 class="mb-0">Githunguri Branch;</h5>
-              <p class="text-muted text-small">Jubilee House, 1st Floor Room No. 3 (Behind Family Bank)</p>
-              <p class="text-muted text-small">P.O Box 23528-00625 Nairobi</p>
-              <p class="text-muted text-small">Pilot: +254 725 109 587</p>
-              <p class="text-muted text-small">Mobile: +254 725 109 587</p>
-              <p class="text-muted text-small">Email: info@mtkadvocates.com</p>
+              <p class=" ">Jubilee House, 1st Floor Room No. 3 (Behind Family Bank)</p>
+              <p class=" ">P.O Box 23528-00625 Nairobi</p>
+              <p class=" ">Pilot: +254 724 835 987</p>
+              <p class=" ">Mobile:+254 725 109 587</p>
+              <p class=" ">Email: info@mtkadvocates.com</p>
             </div>
           </li>
         </ul>

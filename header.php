@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Company title</title>
+  <title>MTK Advocates</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
@@ -41,7 +41,7 @@
           </div>
           <div class="col-lg-8 text-right py-2 text-center text-lg-right">
             <ul class="list-inline mb-0">
-              <li class="list-inline-item"><a class="font-weight-normal text-small reset-anchor" href="#"><i class="fas fa-mobile mr-2"></i>+254 725 109 587</a></li>
+              <li class="list-inline-item"><a class="font-weight-normal text-small reset-anchor" href="#"><i class="fas fa-mobile mr-2"></i>+254 724835987</a></li>
               <li class="list-inline-item">|</li>
               <li class="list-inline-item"><a class="font-weight-normal text-small reset-anchor" href="#"><i class="fas fa-envelope mr-2"></i>info@mtkadvocates.com</a></li>
             </ul>

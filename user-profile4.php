@@ -56,37 +56,37 @@ include('header.php')
                     </div>
 
                     <div class="bg-light p-4 d-flex justify-content-end text-center">
-                        <ul class="social mb-0 list-inline mt-3">
-                            <li class="list-inline-item">
+                       <ul class="social mb-0 list-inline mt-3">
+                           <li class="list-inline-item">
 
-                                <a href="#" class="social-link">
-                                    <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
-                                </a>
+                               <a href="#"  target="_blank" class="social-link">
+                                   <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
+                               </a>
 
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/instagram-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                        </ul>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="#"  target="_blank" class="social-link">
+                                   <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="#" target="_blank"  class="social-link">
+                                   <img src="./img/whatsapp-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="#" target="_blank" class="social-link">
+                                   <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                       </ul>
                     </div>
 
                     <div class="py-2 px-4">
                         <div class="d-flex align-items-center justify-content-between mb-3">
                             <h5 class="mb-0">About MRs. Tabitha Gachoka</h5><a href="#" class="btn btn-link text-muted"></a>
                         </div>
-                        <p class="text-muted">Tabitha handles the firm’s human resource and administration affairs. She is a
+                        <p class="text-small">Tabitha handles the firm’s human resource and administration affairs. She is a
                             holder of a Diploma in Human Resource and Admninistration from Kiambu
                             Institute of Science and Technology (KIST). She has also worked with various
                             organizations including Kenya Broadcasting Corporation (KBC), Safaricom PLC,

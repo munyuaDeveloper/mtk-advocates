@@ -19,7 +19,7 @@ include('header.php')
         <li class="nav-item mx-2"><a class="nav-link text-uppercase" href="team.php">Our Team</a></li>
         <li class="nav-item mx-2"><a class="nav-link text-uppercase" href="contact.php">Contact</a></li>
         <!-- <li class="nav-item ml-2 dropdown"><a class="nav-link text-uppercase dropdown-toggle pr-0" id="navbarDropdownMenuLink" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
-                <div class="dropdown-menu mt-lg-4" aria-labelledby="navbarDropdownMenuLink"><a class="dropdown-item font-weight-bold text-small" href="index.html">Home</a><a class="dropdown-item font-weight-bold text-small" href="about.html">About</a><a class="dropdown-item font-weight-bold text-small" href="contact.html">Contact                </a></div>
+                <div class="dropdown-menu mt-lg-4" aria-labelledby="navbarDropdownMenuLink"><a class="dropdown-item font-weight-bold " href="index.html">Home</a><a class="dropdown-item font-weight-bold " href="about.html">About</a><a class="dropdown-item font-weight-bold " href="contact.html">Contact                </a></div>
               </li>
               <li class="nav-item ml-lg-3 pl-lg-3"><a class="btn btn-outline-primary btn-sm" href="contact.html">Request a quote</a></li> -->
       </ul>
@@ -87,7 +87,7 @@ include('header.php')
       <div class="col-lg-6 order-2 order-lg-1">
         <p class="h6 mb-1 text-uppercase text-primary mb-3">Our main features</p>
         <h2 class="mb-4">We Work With You To Address Your Most Critical Business Priorities</h2>
-        <p class="text-small text-muted">In keeping up with global trends,
+        <p class=" ">In keeping up with global trends,
           changing legal marketplace and client
           expectations, our mission is to develop
           long-term business relationships based
@@ -111,7 +111,7 @@ include('header.php')
                   </span>
                 </div>
                 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionOne">
-                  <div class="accordion-body text-small text-muted">
+                  <div class="accordion-body  ">
                     We strive for excellence in everything that we do.
                   </div>
                 </div>
@@ -125,7 +125,7 @@ include('header.php')
 
                 </div>
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionOne">
-                  <div class="accordion-body text-small text-muted">
+                  <div class="accordion-body  ">
                     Our word is our honour and bond as we continue to jealously guard our firm’s
                     image and reputation by being dependable and reliable while exhibiting the high-
                     est ethical standards.
@@ -140,7 +140,7 @@ include('header.php')
                   </span>
                 </div>
                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionOne">
-                  <div class="accordion-body text-small text-muted">
+                  <div class="accordion-body  ">
                     Character counts. We endeavor to be reliable, trustworthy, transparent, commit-
                     ted to fairness, honour and truth. We are honest enough to assess your needs and
                     give you an objective opinion in offering you a suitable solution.
@@ -155,7 +155,7 @@ include('header.php')
 
                 </div>
                 <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionOne">
-                  <div class="accordion-body text-small text-muted">
+                  <div class="accordion-body  ">
                     In engaging with us, we remain transparent and agree to be bound by reasonable
                     professional standards and expectations in decision-making processes and in
                     delivering on your instructions. We maintain a sufficient professional indemnity
@@ -198,7 +198,7 @@ include('header.php')
             <use xlink:href="#laptop-screen-1"> </use>
           </svg>
           <h3 class="h5">Property Law and Conveyancing</h3>
-          <p class="text-small mb-0 text-muted"></p>
+          <p class=" mb-0 "></p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mb-4">
@@ -207,7 +207,7 @@ include('header.php')
             <use xlink:href="#quality-1"> </use>
           </svg>
           <h3 class="h5">Employment and Labour matters</h3>
-          <p class="text-small mb-0 text-muted"></p>
+          <p class=" mb-0 "></p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mb-4">
@@ -216,7 +216,7 @@ include('header.php')
             <use xlink:href="#survey-1"> </use>
           </svg>
           <h3 class="h5">Energy, Mining and Oil and Gas</h3>
-          <p class="text-small mb-0 text-muted"></p>
+          <p class=" mb-0 "></p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mb-4">
@@ -225,7 +225,7 @@ include('header.php')
             <use xlink:href="#pie-chart-1"> </use>
           </svg>
           <h3 class="h5">Business and non- business entities registration and compliance</h3>
-          <p class="text-small mb-0 text-muted"></p>
+          <p class=" mb-0 "></p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mb-4">
@@ -234,7 +234,7 @@ include('header.php')
             <use xlink:href="#pay-1"> </use>
           </svg>
           <h3 class="h5">Environmental Compliance & Physical Planning</h3>
-          <p class="text-small mb-0 text-muted"></p>
+          <p class=" mb-0 "></p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mb-4">
@@ -243,7 +243,7 @@ include('header.php')
             <use xlink:href="#stack-1"> </use>
           </svg>
           <h3 class="h5">Capital Markets Insurance and Banking</h3>
-          <p class="text-small mb-0 text-muted"></p>
+          <p class=" mb-0 "></p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mb-4">
@@ -252,7 +252,7 @@ include('header.php')
             <use xlink:href="#stack-1"> </use>
           </svg>
           <h3 class="h5">General Litigation</h3>
-          <p class="text-small mb-0 text-muted"></p>
+          <p class=" mb-0 "></p>
         </div>
       </div>
     </div>
@@ -289,32 +289,25 @@ include('header.php')
             <div class="col-lg-12">
               <ol class="list-numbers mb-0">
                 <li class="mb-4">
-                  <h5>Property Law and Conveyancing</h5>
-                  <p class="text-small text-muted"></p>
+                  <p class="lead">Property Law and Conveyancing</p>
                 </li>
                 <li class="mb-4">
-                  <h5>Employment and Labour matters</h5>
-                  <p class="text-small text-muted"></p>
+                  <p class="lead">Employment and Labour matters</p>
                 </li>
                 <li class="mb-4">
-                  <h5>Energy, Mining and Oil and Gas</h5>
-                  <p class="text-small text-muted"></p>
+                  <p class="lead">Energy, Mining and Oil and Gas</p>
                 </li>
                 <li class="mb-4">
-                  <h5>Business and non- business entities registration and compliance</h5>
-                  <p class="text-small text-muted"></p>
+                  <p class="lead">Business and non- business entities registration and compliance</p>
                 </li>
                 <li class="mb-4">
-                  <h5>Environmental Compliance & Physical Planning</h5>
-                  <p class="text-small text-muted"></p>
+                  <p class="lead">Environmental Compliance & Physical Planning</p>
                 </li>
                 <li class="mb-4">
-                  <h5>Capital Markets Insurance and Banking</h5>
-                  <p class="text-small text-muted"></p>
+                  <p class="lead">Capital Markets Insurance and Banking</p>
                 </li>
                 <li class="mb-4">
-                  <h5>General Litigation</h5>
-                  <p class="text-small text-muted"></p>
+                 <p class="lead">General Litigation</p>
                 </li>
               </ol>
             </div>
@@ -331,7 +324,7 @@ include('header.php')
     <div class="row mb-5">
       <div class="col-12 text-center">
         <h2 class="">A sample of our corporate clients.</h2>
-        <p class="text-muted">In keeping up with global trends,
+        <p class="">In keeping up with global trends,
           changing legal marketplace and client
           expectations, our mission is to develop
           long-term business relationships based
@@ -344,30 +337,30 @@ include('header.php')
       <div class="row mx-md-5">
         <div class="col-sm-6">
           <ul class="list-check list-unstyled row mb-4">
-            <li class="text-small text-muted mb-2 col-12">Trinity Credit Ltd</li>
-            <li class="text-small text-muted mb-2">Sumac Microfinance Bank Limited</li>
-            <li class="text-small text-muted mb-2 col-12">Fariji Sacco Society Limited</li>
-            <li class="text-small text-muted mb-2">Diverse Cargo and Air Services</li>
-            <li class="text-small text-muted mb-2 col-12">Caslam Ventures Limited</li>
-            <li class="text-small text-muted mb-2">Kamsim Construction Ltd</li>
-            <li class="text-small text-muted mb-2 col-12">Chantam Energy Limited</li>
-            <li class="text-small text-muted mb-2">Dahable Energy Limited</li>
-            <li class="text-small text-muted mb-2 col-12">Stryke Energy Solutions Limited</li>
-            <li class="text-small text-muted mb-2">Haibal Hauliers Limited</li>
+            <li class="  mb-2 col-12">Trinity Credit Ltd</li>
+            <li class="  mb-2">Sumac Microfinance Bank Limited</li>
+            <li class="  mb-2 col-12">Fariji Sacco Society Limited</li>
+            <li class="  mb-2">Diverse Cargo and Air Services</li>
+            <li class="  mb-2 col-12">Caslam Ventures Limited</li>
+            <li class="  mb-2">Kamsim Construction Ltd</li>
+            <li class="  mb-2 col-12">Chantam Energy Limited</li>
+            <li class="  mb-2">Dahable Energy Limited</li>
+            <li class="  mb-2 col-12">Stryke Energy Solutions Limited</li>
+            <li class="  mb-2">Haibal Hauliers Limited</li>
           </ul>
         </div>
         <div class="col-sm-6">
           <ul class="list-check list-unstyled row mb-4">
-            <li class="text-small text-muted mb-2 col-12">Gala Cereals Limited</li>
-            <li class="text-small text-muted mb-2">Lewison Group Limited</li>
-            <li class="text-small text-muted mb-2 col-12">Fredrick Fyle & Company Limited</li>
-            <li class="text-small text-muted mb-2">Imara Dairy Limited</li>
-            <li class="text-small text-muted mb-2 col-12">Riviera Investment Limited</li>
-            <li class="text-small text-muted mb-2">Allison & Davis Group</li>
-            <li class="text-small text-muted mb-2 col-12">Jumbo DAA Kenya Motors</li>
-            <li class="text-small text-muted mb-2">Githunguri Jua Kali Sacco</li>
-            <li class="text-small text-muted mb-2 col-12">Quarich Investment Group</li>
-            <li class="text-small text-muted mb-2">Rash Energy Solutions Limited</li>
+            <li class="  mb-2 col-12">Gala Cereals Limited</li>
+            <li class="  mb-2">Lewison Group Limited</li>
+            <li class="  mb-2 col-12">Fredrick Fyle & Company Limited</li>
+            <li class="  mb-2">Imara Dairy Limited</li>
+            <li class="  mb-2 col-12">Riviera Investment Limited</li>
+            <li class="  mb-2">Allison & Davis Group</li>
+            <li class="  mb-2 col-12">Jumbo DAA Kenya Motors</li>
+            <li class="  mb-2">Githunguri Jua Kali Sacco</li>
+            <li class="  mb-2 col-12">Quarich Investment Group</li>
+            <li class="  mb-2">Rash Energy Solutions Limited</li>
           </ul>
         </div>
       </div>

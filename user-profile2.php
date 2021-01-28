@@ -57,65 +57,65 @@ include('header.php')
                     </div>
 
                     <div class="bg-light p-4 d-flex justify-content-end text-center">
-                        <ul class="social mb-0 list-inline mt-3">
-                            <li class="list-inline-item">
+                       <ul class="social mb-0 list-inline mt-3">
+                           <li class="list-inline-item">
 
-                                <a href="#" class="social-link">
-                                    <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
-                                </a>
+                               <a href="#"  target="_blank" class="social-link">
+                                   <img src="./img/facebook-brands.svg" alt="..." height="20" width="20">
+                               </a>
 
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/instagram-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#" class="social-link">
-                                    <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
-                                </a>
-                            </li>
-                        </ul>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="#"  target="_blank" class="social-link">
+                                   <img src="./img/twitter-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="#" target="_blank"  class="social-link">
+                                   <img src="./img/whatsapp-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                           <li class="list-inline-item">
+                               <a href="#" target="_blank" class="social-link">
+                                   <img src="./img/linkedin-brands.svg" alt="..." height="20" width="20">
+                               </a>
+                           </li>
+                       </ul>
                     </div>
 
                     <div class="py-2 px-4">
                         <div class="d-flex align-items-center justify-content-between mb-3">
-                            <h5 class="mb-0">About MR. Charles Thiongo</h5><a href="#" class="btn btn-link text-muted"></a>
+                            <h5 class="mb-0">About MR. Charles Thiongo</h5><a href="#" class="btn btn-link"></a>
                         </div>
-                        <p class="text-muted">Charles holds a Bachelor of Laws (LL.B) degree from the University of Nairobi
+                        <p class="text-small">Charles holds a Bachelor of Laws (LL.B) degree from the University of Nairobi
                             where he graduated in 2015 with Honours at Second Class, Upper Division.
                             Charles also holds a Post Graduate Diploma in Law from the Kenya School of
                             Law and is a practicing Advocate of the High Court of Kenya. He is currently
                             undertaking his masters of law degree in environment Law at The University of
                             Nairobi and is projected to complete in 2019. He undertook his pupilage at Capi-
                             tal Law Group one of the leading firms in the area of cooperate/commercial law.</p>
-                        <p class="text-muted">
+                        <p class="text-small ">
                             Charles has been working as the Head Internal Legal department at Ainushamsi
                             Energy Limited since 2015. He handled all the company’s legal matters and inter-
                             faced with retained company advocates to attend to all legal matters.
                         </p>
                         <p class="display-5">He specifically in charge of;</p>
                         <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted mb-2">Drafting, negotiating, execution and registration of all the company’s service station leases.</li>
-                            <li class="text-small text-muted col-sm-12 mb-2">Liaising with the company’s external advocates in preparing and executing all the company’s contracts and commercial agreements.</li>
+                            <li class="text-small mb-2">Drafting, negotiating, execution and registration of all the company’s service station leases.</li>
+                            <li class="text-small col-sm-12 mb-2">Liaising with the company’s external advocates in preparing and executing all the company’s contracts and commercial agreements.</li>
 
-                            <li class="text-small text-muted col-sm-12 mb-2">
+                            <li class="text-small col-sm-12 mb-2">
                                 Negotiation and registration of chattels for movable properties and charges/dis-charges for fixed properties.</li>
 
-                            <li class="text-small text-muted col-sm-12 mb-2">Liaising with the external advocates in making the company’s annual returns.</li>
+                            <li class="text-small col-sm-12 mb-2">Liaising with the external advocates in making the company’s annual returns.</li>
 
-                            <li class="text-small text-muted col-sm-12 mb-2">Preparing and executing tenancy agreements for the various company’s facilities.</li>
+                            <li class="text-small col-sm-12 mb-2">Preparing and executing tenancy agreements for the various company’s facilities.</li>
 
-                            <li class="text-small text-muted col-sm-12 mb-2">Registering the company’s intellectual property with the Kenya Industrial Property Institute (KIPI).</li>
+                            <li class="text-small col-sm-12 mb-2">Registering the company’s intellectual property with the Kenya Industrial Property Institute (KIPI).</li>
                         </ul>
                         <p class="display-5">Work Experience: </p>
                         <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted col-sm-12 mb-2">
+                            <li class="text-small col-sm-12 mb-2">
                                 Charles has been working in the energy sector and particularly the oil and gas
                                 sub-sector for the past 10 years. He is well versed with legislation and regulations
                                 relating to the integrated oil sector incorporating upstream, midstream and downstream petroleum operations. His experience straddles oil exploration and
@@ -124,13 +124,13 @@ include('header.php')
                                 is on course to certification as a lead expert in this area upon completion of the
                                 Master of Laws program.
                             </li>
-                            <li class="text-small text-muted col-sm-12 mb-2">
+                            <li class="text-small col-sm-12 mb-2">
                                 Charles has also established himself in the area of alternative dispute resolution
                                 and is undertaking continuous training in this area covering mediation, arbitration,
                                 negotiations and conciliations. These mechanisms are encouraged by the Constitution of Kenya to provide an alternative to litigation as a more expeditious ad less
                                 adversarial means of resolving disputes between parties.
                             </li>
-                            <li class="text-small text-muted col-sm-12 mb-2">
+                            <li class="text-small col-sm-12 mb-2">
                                 Charles has also contributed to the development of law in the country. His under-
                                 graduate research paper titled ‘Formulation of a regulatory framework to guide in
                                 the administration of the right to bail and bond pursuant to Article 49 (h) of the
@@ -140,8 +140,8 @@ include('header.php')
                         </ul>
                         <p class="display-5">Membership </p>
                         <ul class="list-check list-unstyled row px-3 mb-4">
-                            <li class="text-small text-muted mb-2 col-12">Member of the Law Society of Kenya</li>
-                            <li class="text-small text-muted mb-2">Member of the East African Law Society</li>
+                            <li class="text-small mb-2 col-12">Member of the Law Society of Kenya</li>
+                            <li class="text-small mb-2">Member of the East African Law Society</li>
                         </ul>
                     </div>
                 </div><!-- End profile widget -->

@@ -45,7 +45,7 @@ include('header.php')
       <div class="col-lg-6">
         <p class="h6 mb-1 text-uppercase text-primary mb-3">Our main services</p>
         <h2 class="mb-4">MTK Advocates</h2>
-        <p class="text-small text-muted">MTK Advocates was established by three Advocates with diverse range of legal
+        <p class=" ">MTK Advocates was established by three Advocates with diverse range of legal
           backgrounds with a common vision of building a dynamic and innovative law
           firm to offer professional and personalized to its clients. We strive to offer the
           best legal services to our clients and ensure that we offer legal and factual advise
@@ -55,19 +55,19 @@ include('header.php')
           updated on the status of their matters and involve them in making key decisions
           pertaining to their matters</p>
         <ul class="list-check list-unstyled row px-3 mb-4">
-          <li class="text-small text-muted col-lg-6 mb-2">Excellence</li>
-          <li class="text-small text-muted col-lg-6 mb-2">Integrity</li>
-          <li class="text-small text-muted col-lg-6 mb-2">Teamwork & Camaraderie</li>
-          <li class="text-small text-muted col-lg-6 mb-2">Good corporate citizenship</li>
+          <li class="  col-lg-6 mb-2">Excellence</li>
+          <li class="  col-lg-6 mb-2">Integrity</li>
+          <li class="  col-lg-6 mb-2">Teamwork & Camaraderie</li>
+          <li class="  col-lg-6 mb-2">Good corporate citizenship</li>
         </ul>
         <ul class="list-inline py-4 border-top border-bottom d-flex align-items-center">
           <li class="list-inline-item pl-4 border-left">
-            <h5 class="mb-0">+254 725 109 587</h5>
-            <p class="small font-weight-normal text-muted mb-0">Call to ask any question</p>
+            <h5 class="mb-0">+254 724 835 987</h5>
+            <p class="small font-weight-normal  mb-0">Call to ask any question</p>
           </li>
           <li class="list-inline-item pl-4 border-left">
             <h5 class="mb-0">info@mtkadvocates.com</h5>
-            <p class="small font-weight-normal text-muted mb-0">Email to ask any question</p>
+            <p class="small font-weight-normal  mb-0">Email to ask any question</p>
           </li>
         </ul>
       </div>
@@ -83,7 +83,7 @@ include('header.php')
             Working with your vision
           </p>
           <h2>We're looking for specific approach to each cases</h2>
-          <p class="text-muted">We carefully analyze and understand your vision and overall strategy in order to come up with a suitable legal strategy for you.</p>
+          <p class="">We carefully analyze and understand your vision and overall strategy in order to come up with a suitable legal strategy for you.</p>
         </div>
       </div>
     </header>
@@ -97,7 +97,7 @@ include('header.php')
           </div>
           <div class="px-5 pt-2 pb-5 bg-white text-left">
             <h2 class="h4 mb-3">Our mission</h2>
-            <p class="text-muted text-small mb-0">In keeping up with global trends,
+            <p class="  mb-0">In keeping up with global trends,
               changing legal marketplace and client
               expectations, our mission is to develop
               long-term business relationships based
@@ -116,7 +116,7 @@ include('header.php')
           </div>
           <div class="px-5 pt-2 pb-5 bg-white text-left">
             <h2 class="h4 mb-3">Our vision</h2>
-            <p class="text-muted text-small mb-0">To be the most trusted and innovative law Firm on the African Continent.</p>
+            <p class="  mb-0">To be the most trusted and innovative law Firm on the African Continent.</p>
           </div>
         </div>
       </div>
@@ -129,12 +129,12 @@ include('header.php')
           </div>
           <div class="px-5 pt-2 pb-5 bg-white text-left">
             <h2 class="h4 mb-3">Our core values</h2>
-            <p class="text-muted text-small mb-0">The Firm and MTK Team Member have adopted the following as their guiding values;</p>
+            <p class="  mb-0">The Firm and MTK Team Member have adopted the following as their guiding values;</p>
             <ul class="list-check list-unstyled row px-3 mb-4">
-              <li class="text-small text-muted mb-2">Excellence</li>
-              <li class="text-small text-muted col-sm-12 mb-2">Integrity</li>
-              <li class="text-small text-muted col-sm-12 mb-2">Teamwork & Camaraderie</li>
-              <li class="text-small text-muted col-sm-12 mb-2">Good corporate citizenship</li>
+              <li class="  mb-2">Excellence</li>
+              <li class="  col-sm-12 mb-2">Integrity</li>
+              <li class="  col-sm-12 mb-2">Teamwork & Camaraderie</li>
+              <li class="  col-sm-12 mb-2">Good corporate citizenship</li>
             </ul>
           </div>
         </div>
