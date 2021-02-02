@@ -26,43 +26,57 @@ include('header.php')
     </div>
   </div>
 </nav>
+<style>
+  .carousel-item {
+    transition: (.1s ease-in-out left);
+  }
+</style>
 </header>
 <!-- Hero Slider -->
 <section>
-  <div class="owl-carousel owl-theme-default hero-slider owl-nav-custom">
-    <!-- Hero Slide-->
-    <div class="hero-slide bg-size bg-center py-5" style="background: url(img/gavel-hammer.jpg); background-size: cover">
-      <div class="container text-white py-5 index-forward">
-        <div class="row">
-          <div class="col-lg-7">
-            <h1>Our mission</h1>
-            <p class="lead">To offer robust legal solutions guided by ethical resourcefulness and use of modern
-              technology to deliver value to all our clients and stakeholders.</p>
-            <ul class="list-inline">
-              <li class="list-inline-item"><a class="btn btn-primary" href="about.php">Read More</a></li>
-              <li class="list-inline-item"><a class="btn btn-outline-light" href="contact.php">Contact Us</a></li>
-            </ul>
+
+  <div id="carouselExample1" class="carousel carousel-fade slide z-depth-1-half" data-ride="carousel" data-interval="4500">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="hero-slide bg-size bg-center py-5" style="background: url(img/gavel-hammer.jpg); background-size: cover">
+            <div class="container text-white py-5 index-forward">
+              <div class="row">
+                <div class="col-lg-7">
+                  <h1>Our mission</h1>
+                  <p class="lead">To offer robust legal solutions guided by ethical resourcefulness and use of modern
+                    technology to deliver value to all our clients and stakeholders.</p>
+                  <ul class="list-inline">
+                    <li class="list-inline-item"><a class="btn btn-primary" href="about.php">Read More</a></li>
+                    <li class="list-inline-item"><a class="btn btn-outline-light" href="contact.php">Contact Us</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-    </div>
-    <!-- Hero Slide -->
-    <div class="hero-slide bg-size bg-center py-5" style="background: url(img/hammer-book.jpg); background-size: cover">
-      <div class="container text-white py-5 index-forward">
-        <div class="row">
-          <div class="col-lg-7">
-            <h1>Our experience </h1>
-            <p class="lead">Our team is comprised of highly qualified and upstanding individuals with diverse skills and a combined experience of over 20 years in legal practice.</p>
-            <ul class="list-inline">
-              <li class="list-inline-item"><a class="btn btn-primary" href="about.php">Read More</a></li>
-              <li class="list-inline-item"><a class="btn btn-outline-light" href="contact.php">Contact Us</a></li>
-            </ul>
+        <div class="carousel-item">
+        <div class="hero-slide bg-size bg-center py-5" style="background: url(img/hammer-book.jpg); background-size: cover">
+            <div class="container text-white py-5 index-forward">
+              <div class="row">
+                <div class="col-lg-7">
+                  <h1>Our experience </h1>
+                  <p class="lead">Our team is comprised of highly qualified and upstanding individuals with diverse skills and a combined experience of over 20 years in legal practice.</p>
+                  <ul class="list-inline">
+                    <li class="list-inline-item"><a class="btn btn-primary" href="about.php">Read More</a></li>
+                    <li class="list-inline-item"><a class="btn btn-outline-light" href="contact.php">Contact Us</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-    </div>
-    <!-- Hero Slide -->
-    <div class="hero-slide bg-size bg-center py-5" style="background: url(img/justice.jpg); background-size: cover">
+        <div class="carousel-item">
+        <div class="hero-slide bg-size bg-center py-5" style="background: url(img/justice.jpg); background-size: cover">
       <div class="container text-white py-5 index-forward">
         <div class="row">
           <div class="col-lg-8">
@@ -78,7 +92,17 @@ include('header.php')
         </div>
       </div>
     </div>
-  </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExample1" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExample1" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
 </section>
 <!-- Features Section -->
 <section class="py-5 bg-light">
